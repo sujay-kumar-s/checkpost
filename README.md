@@ -3,7 +3,8 @@
 <p align="center">
   
 
-  <h3 align="center">API Hmac Auth</h3>
+  <h3 align="center">checkpost</h3>
+
 
   <p align="center">
     A python package to add hmac api key authentication to api requests
