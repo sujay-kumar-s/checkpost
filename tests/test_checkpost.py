@@ -1,4 +1,4 @@
-from api_hmac_auth import __version__
+from checkpost import __version__
 
 
 def test_version():
